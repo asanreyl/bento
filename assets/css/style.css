@@ -2,17 +2,13 @@ body{
     height: 850px;
     width: 800px;
     background-color: hsl(0, 0, 96);
-
-
-
-    
 }
 
 @font-face {
     font-family: 'bosco';
     src: url(assets/fonts/DMSans-VariableFont_opsz\,wght.ttf);
 
-    font-weight: 550;
+    font-weight: 600;
 
 }
 
